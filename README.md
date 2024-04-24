@@ -23,6 +23,13 @@ Basic dice roller application which can roll 6 different types of dices in your 
 - Random display of dice faces everytime the dice rolls
 - Sound for dice rolling
 ## Screenshots 💻
-
+![dice-roller-github-screenshot1](https://github.com/reshmaharidhas/Dice-Roller/assets/37250413/e6a10727-54fe-489f-85d2-6ef83d55ed11)
+![dice-roller-github-screenshot2](https://github.com/reshmaharidhas/Dice-Roller/assets/37250413/d3d5a09d-d6b9-406d-b8a7-94638ffe6095)
+![dice-roller-github-screenshot4](https://github.com/reshmaharidhas/Dice-Roller/assets/37250413/eb10c0b9-124f-4179-a4c9-71e536a398e4)
+![dice-roller-github-screenshot3](https://github.com/reshmaharidhas/Dice-Roller/assets/37250413/007d4d18-8000-4f06-b60e-4caca50b2492)
+## Installation 🔌
+- Fork this project by clicking the icon at top-right to save copy of this project.
+- Download the repository files from the Download section or clone this project.
+- Import it to any Python IDE and run the application.
 ## License📕
 This project is licensed under the MIT License
