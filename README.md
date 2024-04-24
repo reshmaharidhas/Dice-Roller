@@ -9,7 +9,13 @@
   <img src="https://img.shields.io/github/created-at/reshmaharidhas/Dice-Roller"/>
 </p>
 
-Basic dice roller application which can roll 6 different types of dices in your desktop
+Basic dice roller application which can roll 6 different types of dices in your desktop. This application has
+ - Tetrahedron dice
+ - Cubic dice
+ - Octahedron dice
+ - Pentagonal trapezohedron dice
+ - Dodecahedron dice
+ - Icosahedron dice	
 ## Programming Language 💻
 - Python 3
 ## Tech Stack 💻
